@@ -181,14 +181,14 @@ hr{
     font-size: x-large;
 }
 
-.linkfoot{
+/* .linkfoot{
     text-decoration: none;
    
     color: var(--gray);
     text-align: center;
    
     
-}
+} */
 
 a {
     /* background-image:; */
@@ -232,6 +232,27 @@ a {
     /* justify-content: center; */
     display: block;
 } 
+.footer {
+    background-color: var(--primary-color);
+    color: var(--gray);
+    text-decoration: none;
+    text-align: center;
+    padding: 0.5%;
+    
+    font-weight: bolder;
+    font-size: larger;
+    margin: auto;
+  }
+  
+  .linkfoot {
+    text-decoration: none;
+  
+    color: var(--gray);
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+    margin: auto;
+  }
     
 
 
