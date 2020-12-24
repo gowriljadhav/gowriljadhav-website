@@ -242,7 +242,7 @@ a {
 } 
 .footer {
     background-color: var(--primary-color);
-    color: var(--gray);
+    color: white;
     text-decoration: none;
     text-align: center;
     padding: 0.5%;
